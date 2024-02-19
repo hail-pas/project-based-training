@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "__node_handle": "c",
+        "cstring": "c",
+        "unistd.h": "c",
+        "termios.h": "c",
+        "_pid_t.h": "c",
+        "abuf.h": "c",
+        "cstdlib": "c",
+        "locale": "c",
+        "stdlib.h": "c",
+        "atomic": "c",
+        "variant": "c",
+        "sstream": "c",
+        "system_error": "c",
+        "ostream": "c",
+        "*.tcc": "c",
+        "exception": "c",
+        "memory_resource": "c",
+        "format": "c",
+        "iosfwd": "c",
+        "new": "c",
+        "stop_token": "c",
+        "streambuf": "c",
+        "types.h": "c",
+        "cstdio": "c",
+        "stdio.h": "c",
+        "fcntl.h": "c"
+    }
+}
